@@ -1,11 +1,11 @@
 # How to use an API
 
-Today we are going to learn how to use an API with Python. An an API stands for Application Programming Interface–think of it as a way for you to use code to fetch data. We will be using Pro Publica's Nonprofit API and NYC OpenData's API, but the concepts here apply to any API you find online.
+Today we are going to learn how to use an API with Python. An an API stands for Application Programming Interface–think of it as a way for you to use code to fetch data. We will be using Pro Publica's [Nonprofit API](https://projects.propublica.org/nonprofits/api) and NYC [OpenData's API](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9), but the concepts here apply to any API you find online.
 
 ### Creating an account
 
 1. We will be exploring [NYC 311 data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9).
-2. Create a new account by clicking on `SIgn up for an app token!` or through their [portal](https://data.cityofnewyork.us/signup).
+2. Create a new account by clicking on `Sign up for an app token!` or through their [portal](https://data.cityofnewyork.us/signup).
 3. Verify your email address.
 4. Create a new app token.
 5. Take note of your app token.
